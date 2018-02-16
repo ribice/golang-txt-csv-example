@@ -1,0 +1,15 @@
+InputFileName (with .txt left off),FileExtension,Count
+ 
+For example:
+
+DLLs,.pyd,17                     
+DLLs,.dll,4
+DLLs,.ico,2
+Doc,.chm,1
+Go,.g0,4656
+Go,.a,363
+Go,.s,363
+Go,,131
+Go,.png,113
+
+...and so on...
