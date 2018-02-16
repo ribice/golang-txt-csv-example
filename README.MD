@@ -6,7 +6,7 @@
 
 This repo contains basic example on how to read multiple txt files (encoded in UTF-16) from given path, and write them to csv.
 
-The detailed explanation is available as a post on my blog, [Convert txt files to csv with Golang](https://ribice.ba/txt-csv-golang/)
+The detailed explanation is available as a post on my blog, [Convert txt files to csv with Golang](https://ribice.ba/txt-csv-golang/).
 
 ## License
 
